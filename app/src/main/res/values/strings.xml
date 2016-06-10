@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Landing Leaf</string>
+    <string name="ad_unit_id">ca-app-pub-3589731046622055/2101015327</string>
+    <string name="title_activity_admod">admod</string>
+    <integer name="google_play_services_version">7571000</integer>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>
